@@ -19,7 +19,7 @@ README-lab1.txt
 
 * Push your change to the bare repo
   $ git remote add RadekUSB /media/${USER}/1234-5678/git-training
-  $ git push RadekUSBstick RDO-fix
+  $ git push RadekUSB RDO-fix
 
 * Give the USB stick to the person on the right
 
@@ -43,3 +43,6 @@ README-lab1.txt
   * First merge your own branch from command line
     $ git merge ...
   * Merge the remote branch using the UI and review the incoming patches
+
+* This is completely new section of the first lab, which is supper important
+  and improve the understanding obtained from the training by 500%.
