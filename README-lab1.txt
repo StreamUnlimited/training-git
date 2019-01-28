@@ -21,7 +21,7 @@ README-lab1.txt
   $ git remote add RadekUSB /media/${USER}/1234-5678/git-training
   $ git push RadekUSBstick RDO-fix
 
-* Give USB stick to the person on the right
+* Give the USB stick to the person on the right
 
 * Add remote from USB stick and fetch changes from there
   $ git remote add ....
