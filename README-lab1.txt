@@ -13,12 +13,12 @@ README-lab1.txt
 
 * Create a bare repo on the USB stick
   $ cd /media/rdostal/1234-5678/
-  $ mkdir git-training
-  $ cd git-training
+  $ mkdir git-training.git
+  $ cd git-training.git
   $ git init --bare
 
 * Push your change to the bare repo
-  $ git remote add RadekUSB /media/rdostal/1234-5678/git-training
+  $ git remote add RadekUSB /media/rdostal/1234-5678/git-training.git
   $ git push RadekUSBstick RDO-fix
 
 * Give the USB stick to the person on the right
