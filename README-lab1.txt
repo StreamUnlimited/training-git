@@ -43,3 +43,9 @@ README-lab1.txt
   * First merge your own branch from command line
     $ git merge ...
   * Merge the remote branch using the UI and review the incoming patches
+
+* Inspect the results using git blame
+  $ git blame README-lab1.txt
+
+* Inspect the history using gitk
+  $ gitk --all
