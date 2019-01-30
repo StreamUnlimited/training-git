@@ -2,7 +2,7 @@ README-lab1.txt
 ===============
 
 * Clone the repo
-  $ git@github.com:StreamUnlimited/training-git.git
+  $ git clone https://github.com/StreamUnlimited/training-git.git
 
 * Create topic branch
   $ git branch RDO-fix
