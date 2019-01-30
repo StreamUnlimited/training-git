@@ -1,6 +1,8 @@
 README-lab1.txt
 ===============
 
+NOTE: some mistakes in this document are done on purpose :)
+
 * Clone the repo
   $ git clone https://github.com/StreamUnlimited/training-git.git
 
